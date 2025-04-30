@@ -1,0 +1,10 @@
+{
+    "responseParameters": {
+        "method.response.header.Access-Control-Allow-Headers": "'Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token,Accept,Origin,Referer,User-Agent'",
+        "method.response.header.Access-Control-Allow-Methods": "'OPTIONS,POST'",
+        "method.response.header.Access-Control-Allow-Origin": "'http://localhost:3000'"
+    },
+    "responseTemplates": {
+        "application/json": ""
+    }
+} 

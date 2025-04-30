@@ -1,0 +1,8 @@
+{
+    "responseParameters": {
+        "method.response.header.Access-Control-Allow-Origin": true
+    },
+    "responseModels": {
+        "application/json": "Empty"
+    }
+} 

@@ -1,0 +1,8 @@
+{
+    "responseParameters": {
+        "method.response.header.Access-Control-Allow-Origin": "'http://localhost:3000'"
+    },
+    "responseTemplates": {
+        "application/json": ""
+    }
+} 
