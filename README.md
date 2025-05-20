@@ -186,4 +186,4 @@ For support, please:
 
 ---
 
-Made with ❤️ by Your Team 
+Rahul Srivastava
